@@ -3,7 +3,7 @@ This is the implementation of the manuscript
 
 1. Prepare dataset 
 
-    please download the ICVL and MSRA dataset, and put them under path './data/ICVL/' and './data/MSRA/', respectively.
+    please download the ICVL and MSRA dataset, and put them under path '[./data/ICVL/](https://github.com/forever1260/HandFold/tree/master/data/ICVL)' and '[./data/MSRA/](https://github.com/forever1260/HandFold/tree/master/data/MSRA)', respectively.
 
     execute instructions in the '[./preprocess_icvl/](https://github.com/forever1260/HandFold/tree/master/preprocess_icvl)' and '[./preprocess_msra/](https://github.com/forever1260/HandFold/tree/master/preprocess_msra)' for datasets preprocessing 
 
@@ -19,9 +19,9 @@ This is the implementation of the manuscript
     or on MSRA
 ```python3 eval_msra_folding.py --model netR.pth --test_path ../data/msra_preprocess/```
 
-    we provided the pre-trained models ('./results/icvlfolding/netR_SOTA.pth' and './results/msrafolding/P0/netR.pth') for testing ICVL and MSRA
+    we provided the pre-trained models ('[./results/icvlfolding](https://github.com/forever1260/HandFold/tree/master/results/icvlfolding)/netR_SOTA.pth' and '[./results/msrafolding](https://github.com/forever1260/HandFold/tree/master/results/msrafolding])/P0/netR.pth') for testing ICVL and MSRA
 
-    we also provided the predicted labels ('./labels') for visulazing the performance through [awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)  
+    we also provided the predicted labels ('./labels(https://github.com/forever1260/HandFold/tree/master/') for visulazing the performance through [awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)  
 
 3. If a new training process is needed, please execute the following instructions after step1 is completed
 
