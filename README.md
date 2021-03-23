@@ -21,7 +21,7 @@ This is the implementation of the manuscript
 
     we provided the pre-trained models ('./results/icvlfolding/netR_SOTA.pth' and './results/msrafolding/P0/netR.pth') for testing ICVL and MSRA
 
-    we also provided the predicted labels ('./labels') for visulazing the performance through   
+    we also provided the predicted labels ('./labels') for visulazing the performance through [awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)  
 
 3. If a new training process is needed, please execute the following instructions after step1 is completed
 
