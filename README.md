@@ -9,7 +9,7 @@ This is the implementation of the manuscript
 
 2. Evaluate
 
-    go to "[./train_eval](https://github.com/forever1260/HandFold/tree/master/train_eval)" directory
+    navigate to "[./train_eval](https://github.com/forever1260/HandFold/tree/master/train_eval)" directory
 
     execute ``` python3 eval_[dataset name]_folding.py --model [saved model name] --test_path [testing set path]```
 
@@ -25,7 +25,7 @@ This is the implementation of the manuscript
 
 3. If a new training process is needed, please execute the following instructions after step1 is completed
 
-   go to "[./train_eval](https://github.com/forever1260/HandFold/tree/master/train_eval)" directory
+   navigate to "[./train_eval](https://github.com/forever1260/HandFold/tree/master/train_eval)" directory
 
    . for training MSRA
     execute ``` python3 train_msra_folding.py --dataset_path [MSAR dataset path]```
