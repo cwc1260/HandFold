@@ -1,2 +1,2 @@
 # Preprocess MSRA dataset
-```run matlab preprocess```
+execute ``` matlab preprocess```
