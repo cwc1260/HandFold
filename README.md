@@ -14,9 +14,11 @@ This is the implementation of the manuscript
     execute ``` python3 eval_[dataset name]_folding.py --model [saved model name] --test_path [testing set path]```
 
     for example on ICVL
+    
 ```python3 eval_icvl_folding.py --model netR_SOTA.pth --test_path ../data/ICVL_center_pre0/Testing/```
 
     or on MSRA
+    
 ```python3 eval_msra_folding.py --model netR.pth --test_path ../data/msra_preprocess/```
 
     we provided the pre-trained models ('[./results/icvlfolding](https://github.com/forever1260/HandFold/tree/master/results/icvlfolding)/netR_SOTA.pth' and '[./results/msrafolding](https://github.com/forever1260/HandFold/tree/master/results/msrafolding])/P0/netR.pth') for testing ICVL and MSRA
@@ -28,9 +30,12 @@ This is the implementation of the manuscript
    navigate to "[./train_eval](https://github.com/forever1260/HandFold/tree/master/train_eval)" directory
 
    . for training MSRA
+   
     execute ``` python3 train_msra_folding.py --dataset_path [MSAR dataset path]```
+    
     example ``` python3 train_msra_folding.py --dataset_path ../data/msra_preprocess/```
 
 
    . for training ICVL
+   
    execute ``` python3 train_icvl_folding.py --train_path [ICVL training dataset path] --test_path [ICVL testing dataset path]```
