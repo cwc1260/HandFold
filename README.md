@@ -2,7 +2,9 @@
 # HandFoldingNet✌️: A 3D Hand Pose Estimation Network Using Multiscale-Feature Guided Folding of a 2D Hand Skeleton
 Wencan Cheng, Jae Hyun Park, Jong Hwan Ko
 
-IEEE International Conference on Computer Vision (ICCV), 2021
+IEEE International Conference on Computer Vision (ICCV), 2021\
+
+arXiv preprint:https://arxiv.org/abs/2108.05545
 
 1. Prepare dataset 
 
