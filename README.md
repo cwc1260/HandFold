@@ -26,7 +26,7 @@ IEEE International Conference on Computer Vision (ICCV), 2021
 
     we provided the pre-trained models ('[./results/icvlfolding](https://github.com/forever1260/HandFold/tree/master/results/icvlfolding)/netR_SOTA.pth' and '[./results/msrafolding](https://github.com/forever1260/HandFold/tree/master/results/msrafolding])/P0/netR.pth') for testing ICVL and MSRA
 
-    we also provided the predicted labels located at '[./labels](https://github.com/forever1260/HandFold/tree/master/)' directory for visulazing the performance through [awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)  
+    we also provided the predicted labels located at '[./labels](https://github.com/forever1260/HandFold/tree/master/)' directory for visulizing the performance through [awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)  
 
 3. If a new training process is needed, please execute the following instructions after step1 is completed
 
