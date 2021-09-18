@@ -45,8 +45,8 @@ IEEE International Conference on Computer Vision (ICCV), 2021
    
 If you find our code useful for your research, please cite our paper
 ```
-@inproceedings{lin2021barf,
-  title={HandFoldingNet✌: A 3D Hand Pose Estimation Network Using Multiscale-Feature Guided Folding of a 2D Hand Skeleton},
+@inproceedings{cheng2021handfoldingnet,
+  title={HandFoldingNet: A 3D Hand Pose Estimation Network Using Multiscale-Feature Guided Folding of a 2D Hand Skeleton},
   author={Cheng, Wencan and Park, Jae Hyun and Ko, Jong Hwan},
   booktitle={IEEE International Conference on Computer Vision ({ICCV})},
   year={2021}
