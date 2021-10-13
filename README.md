@@ -50,7 +50,8 @@ If you find our code useful for your research, please cite our paper
 @inproceedings{cheng2021handfoldingnet,
   title={HandFoldingNet: A 3D Hand Pose Estimation Network Using Multiscale-Feature Guided Folding of a 2D Hand Skeleton},
   author={Cheng, Wencan and Park, Jae Hyun and Ko, Jong Hwan},
-  booktitle={IEEE International Conference on Computer Vision ({ICCV})},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={11260--11269},
   year={2021}
 }
 ```
