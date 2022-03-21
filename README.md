@@ -1,4 +1,8 @@
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/handfoldingnet-a-3d-hand-pose-estimation/hand-pose-estimation-on-icvl-hands)](https://paperswithcode.com/sota/hand-pose-estimation-on-icvl-hands?p=handfoldingnet-a-3d-hand-pose-estimation)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/handfoldingnet-a-3d-hand-pose-estimation/hand-pose-estimation-on-msra-hands)](https://paperswithcode.com/sota/hand-pose-estimation-on-msra-hands?p=handfoldingnet-a-3d-hand-pose-estimation)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/handfoldingnet-a-3d-hand-pose-estimation/hand-pose-estimation-on-nyu-hands)](https://paperswithcode.com/sota/hand-pose-estimation-on-nyu-hands?p=handfoldingnet-a-3d-hand-pose-estimation)
 # HandFoldingNet✌️: A 3D Hand Pose Estimation Network Using Multiscale-Feature Guided Folding of a 2D Hand Skeleton
 Wencan Cheng, Jae Hyun Park, Jong Hwan Ko
 
